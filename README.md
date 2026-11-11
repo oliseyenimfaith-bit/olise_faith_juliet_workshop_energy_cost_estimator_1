@@ -97,6 +97,9 @@ The project provides an organised approach to tool inventory control, equipment 
 It also demonstrates the practical application of programming concepts in Mechatronics Engineering.
 
 Developed by: Olise Faith Juliet
+
 Matric Number: F/ND/24/3450073
+
 Course: CTE213
+
 Institution: Yaba College of Technology (YABATECH)
