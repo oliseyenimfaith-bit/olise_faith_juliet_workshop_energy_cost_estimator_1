@@ -67,7 +67,7 @@ The following programming concepts were applied:
 3. Open a terminal or command prompt.
 4. Run the following command:
 
-```bash
+bash
 TESTING
 
 The application can be tested by:
