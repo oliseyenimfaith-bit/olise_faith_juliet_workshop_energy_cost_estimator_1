@@ -89,7 +89,8 @@ Borrower details and return-date tracking.
 A graphical user interface.
 Automatic maintenance reminders.
 CONCLUSION
-The Workshop Tool Inventory and Maintenance Management System demonstrates how Python programming can be used to solve practical problems in technical workshop management.
+The Workshop Tool Inventory and Maintenance Management System demonstrates how Python programming can be used to solve 
+practical problems in technical workshop management.
 
 The project provides an organised approach to tool inventory control, equipment monitoring, and preventive maintenance.
 
